@@ -9,4 +9,5 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://github.com/song940/ruby-neixin"
   spec.license = "MIT"
   spec.files << "lib/neixin.rb"
+  spec.files << "lib/client.rb"
 end
